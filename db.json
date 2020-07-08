@@ -2,24 +2,27 @@
   "bills": [
     {
       "person_id": 1,
-      "status_bill": 1,
+      "invoice_status": 1,
+      "invoice_period": "07-2020",
       "value": 50.00,
       "data_trafic": 2000,
-      "due_date": "2020-08-01"
+      "due_date": "01-08-2020"
     },
     {
       "person_id": 1,
-      "status_bill": 2,
+      "invoice_status": 2,
+      "invoice_period": "05-2020",
       "value": 50.00,
       "data_trafic": 2000,
-      "due_date": "2020-06-01"
+      "due_date": "01-06-2020"
     },
     {
       "person_id": 1,
-      "status_bill": 3,
+      "invoice_status": 3,
+      "invoice_period": "06-2020",
       "value": 50.00,
       "data_trafic": 2000,
-      "due_date": "2020-07-01"
+      "due_date": "01-07-2020"
     }
   ]
 }
