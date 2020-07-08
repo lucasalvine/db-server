@@ -1,23 +1,25 @@
-[
-  {
-    "person_id": 1,
-    "status_bill": 1,
-    "value": 50.00,
-    "data_trafic": 2000,
-    "due_date": "2020-08-01"
-  },
-  {
-    "person_id": 1,
-    "status_bill": 2,
-    "value": 50.00,
-    "data_trafic": 2000,
-    "due_date": "2020-06-01"
-  },
-  {
-    "person_id": 1,
-    "status_bill": 3,
-    "value": 50.00,
-    "data_trafic": 2000,
-    "due_date": "2020-07-01"
-  }
-]
+{
+  "bills": [
+    {
+      "person_id": 1,
+      "status_bill": 1,
+      "value": 50.00,
+      "data_trafic": 2000,
+      "due_date": "2020-08-01"
+    },
+    {
+      "person_id": 1,
+      "status_bill": 2,
+      "value": 50.00,
+      "data_trafic": 2000,
+      "due_date": "2020-06-01"
+    },
+    {
+      "person_id": 1,
+      "status_bill": 3,
+      "value": 50.00,
+      "data_trafic": 2000,
+      "due_date": "2020-07-01"
+    }
+  ]
+}
